@@ -114,7 +114,7 @@ const createPost = (post) => {
                       <a class="post__name--underline" href="#">user123</a> and
                       <a href="#">73 others</a></span>
                   </div>
-
+                  
                   <hr/>
 
                   <div class="post__description">
